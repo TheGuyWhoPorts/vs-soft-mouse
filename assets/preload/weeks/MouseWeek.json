@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"better",
+			"softie",
+			[
+				160,
+				160,
+				160
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "rato",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "vai se fuder tlgd",
+	"weekName": "um rato contras dois gays",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
